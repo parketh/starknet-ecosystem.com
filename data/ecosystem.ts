@@ -2669,7 +2669,7 @@ export const allProjects: Array<Project> = [
       discord: "https://discord.gg/haiko-xyz",
       telegram: "",
     },
-    isLive: false,
+    isLive: true,
     isTestnetLive: true,
   },
   {
